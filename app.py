@@ -66,7 +66,7 @@ questions = [
     "Sabotage Campaign: Does he turn everyone—friends, family, dog—into spies who suddenly hate you?",
     "Triangulation Matrix: Does he pit you against mutual friends with whispers, lies, and fake beef?",
     "Success Assassin: Do your wins—job, hobby, mood—get crushed, interrupted, or turned into 'but you\'re ignoring ME'?",
-    "Help-as-Alib: Does he ask for 'help' on easy shit—then blame you when he 'fails' (even if he never tried)?",
+    "Help-as-Alibi: Does he ask for 'help' on easy shit—then blame you when he 'fails' (even if he never tried)?",
     "Public Scapegoat: Does he joke about your 'failure' in public? Use your name to book stuff—then no-show and trash your rep?",
     "Weaponized Insecurity (Twist Reality): Do innocent things—like walking your dog—get twisted into 'You\'re doing it to hurt me / fuck someone else'?",
     "Absence-Interrogation Flip: Is he gone all day—no word—then demands a 3-hour report on your moves while hiding his?",
